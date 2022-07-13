@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](E:\qf\hysnotes.github.io\docs\img\coverpage.png)
 
 # Think About AI <small>3.5</small>
 
