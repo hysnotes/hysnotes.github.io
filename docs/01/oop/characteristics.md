@@ -16,7 +16,7 @@
 
 总结：
 
-![](/docs/img/%E5%B0%81%E8%A3%85.png)
+![](E:\qf\hysnotes.github.io\docs\img\封装.png)
 
 # 继承
 
@@ -43,7 +43,7 @@ public class Zi extends Fu
 - 构造方法：类中的构造方法，只负责创建本类对象，但是子类可以调用
 - private修饰的属性和方法：访问修饰符的一种，仅本类可见（详见下图）
 
-![](/docs/img/%E8%AE%BF%E9%97%AE%E4%BF%AE%E9%A5%B0%E7%AC%A6.png)
+![](E:\practise\img\访问修饰符.png)
 
 
 
@@ -80,7 +80,7 @@ super关键字的用法和this关键字的用法相似
 - **this**：代表本类对象的引用 。this指向调用该方法的对象，一般我们是在当前类中使用this关键字，所以我们常说this代表本类对象的引用
 - **super**：代表父类存储空间的标识(可以理解为父类对象引用)
 
-![](/docs/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-07-02%20113823.png)
+![](E:\practise\img\屏幕截图 2022-07-02 113823.png)
 
 
 
