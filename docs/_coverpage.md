@@ -6,9 +6,9 @@
 
 > A magical documentation site generator.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+-简单轻巧
+-没有静态构建的html文件
+-多个主题
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](README.md)
