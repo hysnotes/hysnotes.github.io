@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](coverpage.png)
+![logo](log.jpeg)
 
 # Think About AI <small>3.5</small>
 
