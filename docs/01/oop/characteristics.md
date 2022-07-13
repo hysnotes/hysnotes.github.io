@@ -16,7 +16,7 @@
 
 总结：
 
-![](/docs\img\封装.png)
+![](/docs/img/封装.png)
 
 # 继承
 
