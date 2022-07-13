@@ -4,7 +4,7 @@
 
 # Think About AI <small>3.5</small>
 
-> A magical documentation site generator.
+> 一个神奇的文档站点生成器。
 
 -简单轻巧
 -没有静态构建的html文件
